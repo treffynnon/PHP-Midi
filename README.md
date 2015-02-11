@@ -4,6 +4,7 @@ Forked from http://valentin.dasdeck.com/php/midi/ with permission from Valentin 
 
 ## Licence
 
+```txt
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
 
@@ -17,5 +18,4 @@ Forked from http://valentin.dasdeck.com/php/midi/ with permission from Valentin 
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
-
-
+```
